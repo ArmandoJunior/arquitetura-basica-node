@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import { startOfHour } from 'date-fns';
 import Appointment from '../models/Appointment';
 import AppointmentsRepository from '../repositories/AppointmentsRepository';

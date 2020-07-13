@@ -1,3 +1,5 @@
+/* eslint-disable import/no-unresolved */
+/* eslint-disable import/extensions */
 import { isEqual } from 'date-fns';
 import Appointment from '../models/Appointment';
 
